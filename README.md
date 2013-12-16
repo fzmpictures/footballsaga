@@ -1,0 +1,4 @@
+footballsaga
+============
+
+set type challenge
